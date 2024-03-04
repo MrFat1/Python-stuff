@@ -1,0 +1,4 @@
+daniel:1234
+user2:passwd2
+invitado:0000
+test:test
